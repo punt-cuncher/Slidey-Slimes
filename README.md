@@ -7,6 +7,10 @@ Readme TBD
 - No need for any screws or glue, everything slides in, and the case closes with a satisfying snap.  
 - You will need to have your flow rate and PA dialed in very well, as the tolerances are rather tight.  
   
+  
+  
+Added auxiliary tracker cases! The bottom should be printed from TPU. Otherwise, if you don't have TPU, I'd suggest using a different design, as this will be quite bulky and uncomfortable. Works with up to 4cm straps.
+
 Enjoy!  
   
 - The f3d file is an absolute mess, don't judge me, it's my first cad project lol.  
