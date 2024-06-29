@@ -1,7 +1,7 @@
 # Slidey-Slimes
 Readme TBD  
   
-- Wemos D1 mini v4.0, TP4056, BMI160 or BMI270, SS22F32 switch, 804040 battery or smaller, optional XH2.54 connectors.  
+- Wemos D1 mini v4.0, TP4056, BMI160 or BMI270 or SlimeVR version of BNO0085, SS22F32 switch, 804040 battery or smaller, optional XH2.54 connectors.  
 - Easy to assemble! Just slide the components into the tray, solder everything together, and slide the assembled tray into the case.  
 - Fairly compact, only slightly bigger than SlimeX, while accepting 5cm wide straps.  
 - No need for any screws or glue, everything slides in, and the case closes with a satisfying snap.  
@@ -13,4 +13,4 @@ Added auxiliary tracker cases! The bottom should be printed from TPU. Otherwise,
 
 Enjoy!  
   
-- The f3d file is an absolute mess, don't judge me, it's my first cad project lol.  
+- The f3d file is an absolute mess, don't judge me, it's my first CAD project lol.  
